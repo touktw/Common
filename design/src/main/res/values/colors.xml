@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!--  red  -->
+    <color name="rd_50">#FFEBEE</color>
+    <color name="rd_100">#FFCDD2</color>
+    <color name="rd_200">#EF9A9A</color>
+    <color name="rd_300">#E57373</color>
+    <color name="rd_400">#EF5350</color>
+    <color name="rd_500">#F44336</color>
+    <color name="rd_600">#E53935</color>
+    <color name="rd_700">#D32F2F</color>
+    <color name="rd_800">#C62828</color>
+    <color name="rd_900">#B71C1C</color>
+
+    <!--  pink  -->
+    <color name="pk_50">#FCE4EC</color>
+    <color name="pk_100">#F8BBD0</color>
+    <color name="pk_200">#F48FB1</color>
+    <color name="pk_300">#F06292</color>
+    <color name="pk_400">#EC407A</color>
+    <color name="pk_500">#E91E63</color>
+    <color name="pk_600">#D81B60</color>
+    <color name="pk_700">#C2185B</color>
+    <color name="pk_800">#AD1457</color>
+    <color name="pk_900">#880E4F</color>
+
+    <!--  blue  -->
+    <color name="bl_50">#E3F2FD</color>
+    <color name="bl_100">#BBDEFB</color>
+    <color name="bl_200">#90CAF9</color>
+    <color name="bl_300">#64B5F6</color>
+    <color name="bl_400">#42A5F5</color>
+    <color name="bl_500">#2196F3</color>
+    <color name="bl_600">#1E88E5</color>
+    <color name="bl_700">#1976D2</color>
+    <color name="bl_800">#1565C0</color>
+    <color name="bl_900">#0D47A1</color>
+
+    <!--  grey  -->
+    <color name="gr_50">#FAFAFA</color>
+    <color name="gr_100">#F5F5F5</color>
+    <color name="gr_200">#EEEEEE</color>
+    <color name="gr_300">#E0E0E0</color>
+    <color name="gr_400">#BDBDBD</color>
+    <color name="gr_500">#9E9E9E</color>
+    <color name="gr_600">#757575</color>
+    <color name="gr_700">#616161</color>
+    <color name="gr_800">#424242</color>
+    <color name="gr_900">#212121</color>
+</resources>

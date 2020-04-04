@@ -1,0 +1,4 @@
+rootProject.name='Common'
+include ':app'
+include ':network'
+include ':design'
