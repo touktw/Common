@@ -1,4 +1,4 @@
-package io.teokim.common.design
+package io.teokim.common.mvvm
 
 import org.junit.Test
 

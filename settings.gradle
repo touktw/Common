@@ -1,3 +1,4 @@
+include ':base-mvvm'
 rootProject.name='Common'
 include ':app'
 include ':network'
